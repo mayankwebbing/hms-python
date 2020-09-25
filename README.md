@@ -29,7 +29,7 @@ How to run?
 
 - Run command to install needed modules " pip install flask && pip install flask_restful ".
 
-- Go to the directory location (for e.g. " H: " {if H symbol is shown} then use " cd HMS ").
+- Go to the directory location (for e.g. " H: " {if H symbol is shown} then use " cd hms-python-master ").
 
 - Run command to install packages " python setup.py install ".
 
