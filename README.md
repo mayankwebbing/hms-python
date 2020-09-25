@@ -1,9 +1,9 @@
 # hms-python
 Hospital Management System with PYTHON
 
-				HOSPITAL MANAGEMENT SYSTEM IN PYTHON
+			HOSPITAL MANAGEMENT SYSTEM IN PYTHON
 
-			***Developed By Mayank Vishwakarma***
+			**Developed By Mayank Vishwakarma**
 
 #Configure
 
@@ -37,4 +37,4 @@ How to run?
 
 - Then go to " http://localhost:5601/ " manually or run Browser.py file in directory.
 
-- admin page ****** username - mayankv03 ****** password - mayank123
+- admin page ****** username - admin ****** password - admin
