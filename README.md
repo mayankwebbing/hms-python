@@ -39,7 +39,9 @@ How to run?
 
 - admin page ****** username - admin ****** password - admin
 
-					
+
+				INTRODUCTION
+			
 Today, management has been automated in all hospitals.
 ➢ This has resulted in a drastic improvement in the efficiency of the management
 system.
